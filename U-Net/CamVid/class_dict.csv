@@ -1,0 +1,5 @@
+name,r,g,b
+benign,64,64,64
+malignant,255,255,255
+isolated,128,128,128
+background,0,0,0
