@@ -1,8 +1,9 @@
 # BraTS
 
-### Brain Tumor Segmentation using the U-net architecture
+## Brain Tumor Segmentation using the U-net architecture
 
-References
+### References
+
 U-Net: Convolutional Networks for Biomedical Image Segmentation
 https://arxiv.org/pdf/1505.04597.pdf
 
